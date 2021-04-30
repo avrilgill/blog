@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- 👋 Hi, I’m Avril
+- 👀 I’m in ❤️  with Java
+- 🌱 I’m currently learning Spring Framework
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Things I personally consider while working on a project or learning a new topic:
+1. Time is important, use it wisely ⏳
+2. Concentrate on a single topic rather than doing it all at once ✔️
+3. Consistency is the key 🔑
+4. Learn what you like, clear the basics and then work with problem variations 📚
+
+
